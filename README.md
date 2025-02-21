@@ -78,3 +78,5 @@ You can interact with the contract on the EduChain network using any Ethereum-co
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
+- Thanks to the Ethereum community for developing Solidity and decentralized technologies.
+- EduChain for providing an educational blockchain platform to deploy the contract.
